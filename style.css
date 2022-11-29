@@ -1,3 +1,6 @@
+body{
+    background: rgb(228, 222, 115);
+}
 
 h1, p{
     text-align: center;
@@ -8,10 +11,14 @@ h1, p{
 
 .link a {
     margin: 0 10px;
+    color: brown;
+    
 }
 
 
 .croissant{
     display: block;
     margin: 30px auto;
+    border-radius: 10px;
+    box-shadow: 50px;
 }
